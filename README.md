@@ -11,8 +11,7 @@
     </a>
 </p>
                      "Output image"
-       <img src="https://github.com/gourav263587/IOT1026-Assignment-1/assets/133707861/7fc005a1-de2e-4118-921d-89ed954d582c)
-t.png"/>
+       <img src=![Screenshot 2023-05-18 040539](https://github.com/gourav263587/IOT1026-Assignment-1/assets/133707861/c844db6c-d52e-4faa-b849-51e14a29e2fe)/>
     </a>
 </p>
 
