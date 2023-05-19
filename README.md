@@ -10,10 +10,9 @@
 	<img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">	
     </a>
 </p>
-                     "Output image"
-       <img src=![Screenshot 2023-05-18 040539](https://github.com/gourav263587/IOT1026-Assignment-1/assets/133707861/c844db6c-d52e-4faa-b849-51e14a29e2fe)/>
-    </a>
-</p>
+   
+     ![Screenshot 2023-05-18 040539](https://github.com/gourav263587/IOT1026-Assignment-1/assets/133707861/c844db6c-d52e-4faa-b849-51e14a29e2fe)
+                 
 
 
 
