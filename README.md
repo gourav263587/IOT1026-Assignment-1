@@ -10,6 +10,13 @@
 	<img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">	
     </a>
 </p>
+                     "Output image"
+       <img src="https://github.com/gourav263587/IOT1026-Assignment-1/assets/133707861/7fc005a1-de2e-4118-921d-89ed954d582c)
+t.png"/>
+    </h3>
+</p>
+
+
 
 # IOT1026-Assignment-1
 Write a description of the project here and don't forget to update the badges.  
