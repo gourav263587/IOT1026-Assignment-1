@@ -13,7 +13,7 @@
                      "Output image"
        <img src="https://github.com/gourav263587/IOT1026-Assignment-1/assets/133707861/7fc005a1-de2e-4118-921d-89ed954d582c)
 t.png"/>
-    </h3>
+    </a>
 </p>
 
 
