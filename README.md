@@ -19,6 +19,12 @@
 # IOT1026-Assignment-1
 Write a description of the project here and don't forget to update the badges.  
 
+        
+        
+![image](https://github.com/gourav263587/IOT1026-Assignment-1/assets/133707861/acb32d0c-897a-4add-aef7-e714f6b2a2df)
+
+        
+        
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
 [How to update status badges](docs/how-to-update-badges.md)
